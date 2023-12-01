@@ -1,17 +1,21 @@
-### Hi there 👋, My Name is Amit a passionate and versatile Cloud Architect adept at fortifying systems with robust security measures while championing DevOps practices for seamless development workflows.
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Amit Singh, a passionate and versatile Cloud Architect adept at fortifying systems with robust security measures while championing DevOps practices for seamless development workflows.
 
-With a strong focus on security, I specialize in designing and implementing resilient and secure cloud architectures. I ensure that security is integrated at every level of the infrastructure and development lifecycle.
+### About Me
+🔒 With a strong focus on security, I specialize in designing and implementing resilient and secure cloud architectures. I ensure that security is integrated at every level of the infrastructure and development lifecycle.
 
-I thrive in the intersection of DevOps and Security, advocating for agile methodologies, continuous integration, and automated deployment pipelines while maintaining stringent security protocols.
+🛠️ I thrive in the intersection of DevOps and Security, advocating for agile methodologies, continuous integration, and automated deployment pipelines while maintaining stringent security protocols.
 
-My expertise spans multiple cloud platforms such as Azure, AWS, and GCP, allowing me to architect scalable, high-performance solutions aligned with business objectives.
+🌐 My expertise spans multiple cloud platforms such as Azure & AWS, allowing me to architect scalable, high-performance solutions aligned with business objectives.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+### What I Do
+🔒 Develop and enforce security strategies, conducting risk assessments, implementing controls, and ensuring compliance with industry standards and regulations.
+🚀 Drive DevOps transformations by implementing CI/CD pipelines, Infrastructure as Code (IaC), and automation tools, fostering collaboration and accelerating software delivery.
+☁️ Architect cloud environments that are resilient, cost-effective, and scalable, catering to diverse business needs while ensuring security and operational excellence.
 
-- 🔭 I’m currently working on Terraform, AKS, DevOps 
-- 💬 Ask me about Develop and enforce security strategies, conducting risk assessments, implementing controls, and ensuring compliance with industry standards and regulations. 
+### Let's Connect
+🔗 Connect with me on LinkedIn https://www.linkedin.com/in/amitkumar-singh/ to, collaborate, or engaging projects related to Cloud Architecture, DevOps, or Security.
 
+Skills: Azure Cloud, AWS Cloud, Terraform, Azure DevOps, Cloud Security, AKS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amitkumarsingh-stack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amitkumar-singh/)  
 
