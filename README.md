@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Amit Singh, a passionate and versatile Cloud Architect adept at fortifying systems with robust security measures while championing DevOps practices for seamless development workflows.
+### Hi there 👋, I'm Amit Singh, a passionate and versatile Cloud Consultant adept at fortifying systems with robust security measures while championing DevOps practices for seamless development workflows.
 
 ### About Me
 🔒 With a strong focus on security, I specialize in designing and implementing resilient and secure cloud architectures. I ensure that security is integrated at every level of the infrastructure and development lifecycle.
